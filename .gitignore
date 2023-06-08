@@ -1,0 +1,5 @@
+data/*
+logs/*
+models/*
+data.zip
+.DS_Store
