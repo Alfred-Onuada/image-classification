@@ -3,3 +3,5 @@ logs/*
 models/*
 data.zip
 .DS_Store
+visual_test/
+*.h5
